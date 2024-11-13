@@ -1,3 +1,6 @@
+# NAME: RAKSHITHA K
+# REGISTER NUMBER: 212223110039
+# DATE:
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
